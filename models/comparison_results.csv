@@ -1,0 +1,5 @@
+Model,Accuracy,Precision,Recall,F1-Score,Training Time (s)
+Logistic Regression,0.9853,0.9796,0.9913,0.9854,0.49s
+Multinomial Naive Bayes,0.9543,0.9546,0.9540,0.9543,0.03s
+Linear SVM,0.9953,0.9947,0.9960,0.9953,0.23s
+Random Forest,0.9927,0.9907,0.9947,0.9927,6.78s
